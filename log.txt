@@ -1,0 +1,57 @@
+
+
+spotify-this-song sabotage:
+
+Artist: Beastie Boys
+Track: Sabotage
+Album: Ill Communication
+Album Preview: https://open.spotify.com/track/0Puj4YlTm6xNzDDADXHMI9
+===========================
+
+spotify-this-song :
+
+Artist: Ace of Base
+Track: The Sign
+Album: The Sign (US Album) [Remastered]
+Album Preview: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+===========================
+
+spotify-this-song :
+
+Artist: Ace of Base
+Track: The Sign
+Album: The Sign (US Album) [Remastered]
+Album Preview: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+===========================
+
+movie-this :
+
+Title: Mr. Nobody
+Released: 2009
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 64%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+===========================
+
+movie-this top gun:
+
+Title: Top Gun
+Released: 1986
+IMDB Rating: 6.9/10
+Rotten Tomatoes Rating: 56%
+Country: USA
+Language: English
+Plot: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+Cast: Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+===========================
+
+do-what-it-says :
+
+Artist: Backstreet Boys
+Track: I Want It That Way
+Album: The Hits--Chapter One
+Album Preview: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+===========================
